@@ -1,5 +1,5 @@
 # Python Ebay Web Scraping
-Checks the product price intermittently, for a product on ebay.
+In this project we used Jupyter Notebook to check the product price intermittently, for a product on ebay through web scraping.
 
 ## Tools and technologies
 - **Jupyter Notebook**
